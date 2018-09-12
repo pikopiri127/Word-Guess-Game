@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #333;
+    background:#eee
+  }
+
+.container {
+    text-align: center;
+}
+
+.container-content {
+    margin: 30px;
+}
